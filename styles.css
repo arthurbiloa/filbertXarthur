@@ -1,0 +1,22 @@
+#main{
+    margin: auto;
+    padding: 3%;
+}
+
+h1,i{
+    display: flex;
+    justify-content: center;
+}
+#image{
+    width: 100%;
+}
+#tribute-info{
+    width: 50%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+#img-caption{
+    font-style: italic;
+    color: #964B00;
+    text-align: center;
+}
