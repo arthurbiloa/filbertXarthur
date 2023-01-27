@@ -9,11 +9,13 @@ h1,i{
 }
 #image{
     width: 100%;
+    height: auto;
 }
 #tribute-info{
     width: 50%;
     margin-left: 20%;
     margin-top: 5%;
+    display: block;
 }
 #img-caption{
     font-style: italic;
